@@ -1,6 +1,6 @@
 import Card from "./components/Card";
 import { Luna } from "./components/Luna";
-import { Parrafo } from "./components/parrafo";
+import { Parrafo } from "./components/Parrafo";
 import { Team } from "./data/team";
 
 export default function App() {
